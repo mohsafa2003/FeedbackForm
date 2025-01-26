@@ -96,7 +96,7 @@ body{
 /* Media Queries for Responsiveness */
 @media (max-width: 768px) {
     .Container {
-        max-width: 80%;
+        max-width: 120%;
         padding: 5%;
     }
 
@@ -118,10 +118,10 @@ body{
 
     .innerContainer input,    
     #message {
-        width: 100%;
+        width: 400%;
     }
 
     .innerContainer button {
-        width: 80%;
+        width: 400%;
     }
 }
