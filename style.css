@@ -112,7 +112,7 @@ body{
 
 @media (max-width: 480px) {
     .Container {
-        max-width: 95%;
+        max-width: 200%;
         padding: 5%;
     }
 
