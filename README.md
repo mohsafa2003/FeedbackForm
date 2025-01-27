@@ -13,9 +13,10 @@ A:The website isn't fully functional, yet, users could type into the fields and 
 isn't connected to any database or any mail services.
 
 
-
 ## Future plans:
 -> Allow the message to go through to an email.
 
 -> Make a checker to avoid empty fields.
+
+
 
