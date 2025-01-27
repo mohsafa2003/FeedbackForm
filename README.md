@@ -16,5 +16,6 @@ isn't connected to any database or any mail services.
 
 ## Future plans:
 -> Allow the message to go through to an email.
+
 -> Make a checker to avoid empty fields.
 
