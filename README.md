@@ -3,6 +3,7 @@
 This project is made to practice more HTML and CSS its a simple form.
 
 FAQ:
+
 What is this website used for?
 This site is used to provide feedback to the developer directly.
 
